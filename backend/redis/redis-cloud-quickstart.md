@@ -138,6 +138,23 @@ public class RedisCloudLettuceExample {
 - 熟悉Redis的基本命令和数据结构，这对于开发高效的Redis应用非常重要
 - 了解Redis的持久化机制和高可用性方案，确保应用的可靠性和数据安全
 
+## 扩展学习（TODO）
+
+### Jedis深入学习
+- Jedis的高级特性和最佳实践
+- Jedis连接池的详细配置
+- Jedis与Spring Boot的集成
+
+### Lettuce深入学习
+- Lettuce的异步编程模型
+- Lettuce的连接管理和线程安全性
+- Lettuce与Spring Boot的集成
+
+### Redis高级特性
+- Redis事务和管道
+- Redis发布/订阅模式
+- Redis Lua脚本
+
 ## 参考资料
 
 1. [Redis Cloud快速开始官方文档](https://redis.io/docs/latest/operate/rc/rc-quickstart/)
